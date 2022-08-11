@@ -1,0 +1,1 @@
+print("babagi la fortinaite")
